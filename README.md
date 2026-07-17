@@ -16,11 +16,20 @@
   </a>
 </p>
 
-## Career
+## Profile Views
 
-| AD | EVENTS |
-| :--: | :--: |
-| 2021 | DMM WEBCAMP 卒業 |
-|  | SIer企業へ入社 |
-| 2025 | 自社開発企業へ転職 |
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
+## Qiita Score
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/zucky-quest/posts.svg)](http://qiita.com/zucky-quest)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/zucky-quest/contributions.svg)](http://qiita.com/zucky-quest)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/zucky-quest/followers.svg)](http://qiita.com/zucky-quest)
+
+## Status
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zucky-quest&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zucky-quest&theme=holi&exclude=JavaScript%2C+HTML)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zucky-quest&theme=holi&exclude=JavaScript%2C+HTML)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zucky-quest&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zucky-quest&theme=holi&utcOffset=0)
